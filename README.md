@@ -4,3 +4,5 @@
 # Correction:
 
 ## Replace document.querySelectorAll('body') with document.querySelector('body'). The querySelector method returns the first matching element, which is appropriate here since there's only one <body> element.
+# Pictures
+![Screenshot (81)](https://github.com/user-attachments/assets/772ab4c4-f061-4e36-98d6-e274b926dc12)
