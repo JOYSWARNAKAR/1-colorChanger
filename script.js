@@ -22,7 +22,14 @@ buttons.forEach(function (button){  // events
         if(e.target.id === 'yellow'){
             body.style.backgroundColor = e.target.id;
         }
+
+        if(e.target.id === 'purple'){
+            body.style.backgroundColor = e.target.id;
+        }
         
+        if(e.target.id === 'orange'){
+            body.style.backgroundColor = e.target.id;
+        }
         
     });
     
